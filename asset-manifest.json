@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Usecontext_hook/static/css/main.f855e6bc.css",
+    "main.js": "/Usecontext_hook/static/js/main.bd550943.js",
+    "index.html": "/Usecontext_hook/index.html",
+    "main.f855e6bc.css.map": "/Usecontext_hook/static/css/main.f855e6bc.css.map",
+    "main.bd550943.js.map": "/Usecontext_hook/static/js/main.bd550943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bd550943.js"
+  ]
+}
